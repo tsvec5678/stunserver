@@ -1,5 +1,6 @@
 nbproject/
 
+*.swp
 *.o
 *.gch
 *.a
@@ -12,4 +13,3 @@ stuntestcode
 stunclient.exe
 stunserver.exe
 stuntestcode.exe
-

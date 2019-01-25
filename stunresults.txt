@@ -1,0 +1,522 @@
+stun.12connect.com:3478, Binding test: success, Local address: 192.168.7.224:44861, Mapped address: 104.12.217.45:44861, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.12voip.com:3478, Binding test: success, Local address: 192.168.7.224:39234, Mapped address: 104.12.217.45:39234, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.1cbit.ru:3478, Binding test: success, Local address: 192.168.7.224:36457, Mapped address: 104.12.217.45:36457, Behavior test: fail, Filtering test: fail
+
+stun.1und1.de:3478, Binding test: success, Local address: 192.168.7.224:36107, Mapped address: 104.12.217.45:36107, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.2talk.co.nz:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.2talk.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.3clogic.com:3478, Binding test: success, Local address: 192.168.7.224:50178, Mapped address: 104.12.217.45:50178, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.3cx.com:3478, Binding test: success, Local address: 192.168.7.224:35826, Mapped address: 104.12.217.45:35826, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.726.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.a-mm.tv:3478, Binding test: success, Local address: 192.168.7.224:34049, Mapped address: 104.12.217.45:34049, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.aa.net.uk:3478, Binding test: success, Local address: 192.168.7.224:49097, Mapped address: 104.12.217.45:49097, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.aceweb.com:3478, Binding test: success, Local address: 192.168.7.224:43572, Mapped address: 104.12.217.45:43572, Behavior test: fail, Filtering test: fail
+
+stun.acrobits.cz:3478, Binding test: success, Local address: 192.168.7.224:39489, Mapped address: 104.12.217.45:39489, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Endpoint Independent Filtering
+
+stun.acronis.com:3478, Binding test: success, Local address: 192.168.7.224:34360, Mapped address: 104.12.217.45:34360, Behavior test: fail, Filtering test: success, Nat filtering: Endpoint Independent Filtering
+
+stun.actionvoip.com:3478, Binding test: success, Local address: 192.168.7.224:59372, Mapped address: 104.12.217.45:59372, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.advfn.com:3478, Binding test: success, Local address: 192.168.7.224:52480, Mapped address: 104.12.217.45:52480, Behavior test: fail, Filtering test: fail
+
+stun.aeta-audio.com:3478, Binding test: success, Local address: 192.168.7.224:59437, Mapped address: 104.12.217.45:59437, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.aeta.com:3478, Binding test: success, Local address: 192.168.7.224:42224, Mapped address: 104.12.217.45:42224, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.allflac.com:3478, Binding test: success, Local address: 192.168.7.224:58464, Mapped address: 104.12.217.45:58464, Behavior test: fail, Filtering test: fail
+
+stun.anlx.net:3478, Binding test: success, Local address: 192.168.7.224:52563, Mapped address: 104.12.217.45:52563, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.antisip.com:3478, Binding test: success, Local address: 192.168.7.224:58291, Mapped address: 104.12.217.45:58291, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.avigora.com:3478, Binding test: success, Local address: 192.168.7.224:54968, Mapped address: 104.12.217.45:54968, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.avigora.fr:3478, Binding test: success, Local address: 192.168.7.224:53671, Mapped address: 104.12.217.45:53671, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.b2b2c.ca:3478, Binding test: success, Local address: 192.168.7.224:49613, Mapped address: 104.12.217.45:49613, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.bahnhof.net:3478, Binding test: success, Local address: 192.168.7.224:33168, Mapped address: 104.12.217.45:33168, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.barracuda.com:3478, Binding test: success, Local address: 192.168.7.224:47396, Mapped address: 104.12.217.45:47396, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.beam.pro:3478, Unable to resolve hostname for stun.beam.pro, Can't start client, Usage: stunclient [OPTIONS] server [port], Try 'stunclient --help' for a complete set of options and description of, paramters
+
+stun.bitburger.de:3478, Binding test: success, Local address: 192.168.7.224:37019, Mapped address: 104.12.217.45:37019, Behavior test: fail, Filtering test: fail
+
+stun.bluesip.net:3478, Binding test: success, Local address: 192.168.7.224:55855, Mapped address: 104.12.217.45:55855, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.bomgar.com:3478, Binding test: success, Local address: 192.168.7.224:40736, Mapped address: 104.12.217.45:40736, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.botonakis.com:3478, Binding test: success, Local address: 192.168.7.224:39474, Mapped address: 104.12.217.45:39474, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.budgetphone.nl:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.budgetsip.com:3478, Binding test: success, Local address: 192.168.7.224:36339, Mapped address: 104.12.217.45:36339, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.cablenet-as.net:3478, Binding test: success, Local address: 192.168.7.224:56693, Mapped address: 104.12.217.45:56693, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.callromania.ro:3478, Binding test: success, Local address: 192.168.7.224:57125, Mapped address: 104.12.217.45:57125, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.callwithus.com:3478, Binding test: success, Local address: 192.168.7.224:44748, Mapped address: 104.12.217.45:44748, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.cheapvoip.com:3478, Binding test: success, Local address: 192.168.7.224:56149, Mapped address: 104.12.217.45:56149, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.cloopen.com:3478, Binding test: success, Local address: 192.168.7.224:36769, Mapped address: 104.12.217.45:36769, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.cognitoys.com:3478, Unable to resolve hostname for stun.cognitoys.com, Can't start client, Usage: stunclient [OPTIONS] server [port], Try 'stunclient --help' for a complete set of options and description of, paramters
+
+stun.comfi.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.commpeak.com:3478, Binding test: success, Local address: 192.168.7.224:51489, Mapped address: 104.12.217.45:51489, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.communigate.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.comrex.com:3478, Binding test: success, Local address: 192.168.7.224:45859, Mapped address: 104.12.217.45:45859, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.comtube.com:3478, Binding test: success, Local address: 192.168.7.224:45757, Mapped address: 104.12.217.45:45757, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.comtube.ru:3478, Binding test: success, Local address: 192.168.7.224:37572, Mapped address: 104.12.217.45:37572, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.connecteddata.com:3478, Binding test: success, Local address: 192.168.7.224:44078, Mapped address: 104.12.217.45:44078, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.cope.es:3478, Binding test: success, Local address: 192.168.7.224:56922, Mapped address: 104.12.217.45:56922, Behavior test: fail, Filtering test: fail
+
+stun.counterpath.com:3478, Binding test: success, Local address: 192.168.7.224:37453, Mapped address: 104.12.217.45:37453, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.counterpath.net:3478, Binding test: success, Local address: 192.168.7.224:58699, Mapped address: 104.12.217.45:58699, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.crimeastar.net:3478, Binding test: success, Local address: 192.168.7.224:42314, Mapped address: 104.12.217.45:42314, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.dcalling.de:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.demos.ru:3478, Binding test: success, Local address: 192.168.7.224:44023, Mapped address: 104.12.217.45:44023, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.demos.su:3478, Binding test: success, Local address: 192.168.7.224:58929, Mapped address: 104.12.217.45:58929, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.dls.net:3478, Binding test: success, Local address: 192.168.7.224:54562, Mapped address: 104.12.217.45:54562, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.dokom.net:3478, Binding test: success, Local address: 192.168.7.224:39990, Mapped address: 104.12.217.45:39990, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.dowlatow.ru:3478, Binding test: success, Local address: 192.168.7.224:36122, Mapped address: 104.12.217.45:36122, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.duocom.es:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.dus.net:3478, Binding test: success, Local address: 192.168.7.224:48058, Mapped address: 104.12.217.45:48058, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.e-fon.ch:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.easemob.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.easycall.pl:3478, Binding test: success, Local address: 192.168.7.224:39734, Mapped address: 104.12.217.45:39734, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.easyvoip.com:3478, Binding test: success, Local address: 192.168.7.224:47945, Mapped address: 104.12.217.45:47945, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.eibach.de:3478, Binding test: success, Local address: 192.168.7.224:53592, Mapped address: 10.100.1.11:35920, Behavior test: fail, Filtering test: fail
+
+stun.ekiga.net:3478, Binding test: success, Local address: 192.168.7.224:48471, Mapped address: 104.12.217.45:48471, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ekir.de:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.elitetele.com:3478, Binding test: success, Local address: 192.168.7.224:36192, Mapped address: 104.12.217.45:36192, Behavior test: fail, Filtering test: fail
+
+stun.emu.ee:3478, Binding test: success, Local address: 192.168.7.224:41265, Mapped address: 193.40.25.144:10876, Behavior test: fail, Filtering test: fail
+
+stun.engineeredarts.co.uk:3478, Binding test: success, Local address: 192.168.7.224:42260, Mapped address: 104.12.217.45:42260, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.eoni.com:3478, Binding test: success, Local address: 192.168.7.224:46885, Mapped address: 104.12.217.45:46885, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.epygi.com:3478, Binding test: success, Local address: 192.168.7.224:34960, Mapped address: 104.12.217.45:34960, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.faktortel.com.au:3478, Binding test: success, Local address: 192.168.7.224:53804, Mapped address: 104.12.217.45:53804, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.fbsbx.com:3478, Binding test: success, Local address: 192.168.7.224:33788, Mapped address: 104.12.217.45:33788, Behavior test: fail, Filtering test: fail
+
+stun.fh-stralsund.de:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.fmbaros.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.fmo.de:3478, Binding test: success, Local address: 192.168.7.224:53560, Mapped address: 104.12.217.45:53560, Behavior test: fail, Filtering test: fail
+
+stun.freecall.com:3478, Binding test: success, Local address: 192.168.7.224:51390, Mapped address: 104.12.217.45:51390, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.freeswitch.org:3478, Binding test: success, Local address: 192.168.7.224:45188, Mapped address: 104.12.217.45:45188, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.freevoipdeal.com:3478, Binding test: success, Local address: 192.168.7.224:59244, Mapped address: 104.12.217.45:59244, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.genymotion.com:3478, Binding test: success, Local address: 192.168.7.224:37476, Mapped address: 104.12.217.45:37476, Behavior test: fail, Filtering test: fail
+
+stun.gmx.de:3478, Binding test: success, Local address: 192.168.7.224:41262, Mapped address: 104.12.217.45:41262, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.gmx.net:3478, Binding test: success, Local address: 192.168.7.224:44319, Mapped address: 104.12.217.45:44319, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.gnunet.org:3478, Binding test: success, Local address: 192.168.7.224:59832, Mapped address: 104.12.217.45:59832, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.gradwell.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.halonet.pl:3478, Binding test: success, Local address: 192.168.7.224:53462, Mapped address: 104.12.217.45:53462, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.highfidelity.io:3478, Binding test: success, Local address: 192.168.7.224:33852, Mapped address: 104.12.217.45:33852, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.hoiio.com:3478, Binding test: success, Local address: 192.168.7.224:54663, Mapped address: 104.12.217.45:54663, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.hosteurope.de:3478, Binding test: success, Local address: 192.168.7.224:32959, Mapped address: 104.12.217.45:32959, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.i-stroy.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.ideasip.com:3478, Binding test: success, Local address: 192.168.7.224:55724, Mapped address: 104.12.217.45:55724, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.imweb.io:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.infra.net:3478, Binding test: success, Local address: 192.168.7.224:38086, Mapped address: 104.12.217.45:38086, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.innovaphone.com:3478, Binding test: success, Local address: 192.168.7.224:37313, Mapped address: 104.12.217.45:37313, Behavior test: fail, Filtering test: fail
+
+stun.instantteleseminar.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.internetcalls.com:3478, Binding test: success, Local address: 192.168.7.224:47309, Mapped address: 104.12.217.45:47309, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.intervoip.com:3478, Binding test: success, Local address: 192.168.7.224:49709, Mapped address: 104.12.217.45:49709, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ipcomms.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.ipfire.org:3478, Unable to resolve hostname for stun.ipfire.org, Can't start client, Usage: stunclient [OPTIONS] server [port], Try 'stunclient --help' for a complete set of options and description of, paramters
+
+stun.ippi.com:3478, Binding test: success, Local address: 192.168.7.224:45454, Mapped address: 104.12.217.45:45454, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ippi.fr:3478, Binding test: success, Local address: 192.168.7.224:58211, Mapped address: 104.12.217.45:58211, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.it1.hr:3478, Binding test: success, Local address: 192.168.7.224:44739, Mapped address: 104.12.217.45:44739, Behavior test: fail, Filtering test: fail
+
+stun.ivao.aero:3478, Binding test: success, Local address: 192.168.7.224:58551, Mapped address: 104.12.217.45:58551, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.jabbim.cz:3478, Binding test: success, Local address: 192.168.7.224:49819, Mapped address: 104.12.217.45:49819, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.jumblo.com:3478, Binding test: success, Local address: 192.168.7.224:57626, Mapped address: 104.12.217.45:57626, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.justvoip.com:3478, Binding test: success, Local address: 192.168.7.224:51928, Mapped address: 104.12.217.45:51928, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.kaospilot.dk:3478, Binding test: success, Local address: 192.168.7.224:60608, Mapped address: 104.12.217.45:60608, Behavior test: fail, Filtering test: fail
+
+stun.kaseya.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.kaznpu.kz:3478, Binding test: success, Local address: 192.168.7.224:60662, Mapped address: 104.12.217.45:60662, Behavior test: fail, Filtering test: fail
+
+stun.kiwilink.co.nz:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.kuaibo.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.l.google.com:19302, Binding test: success, Local address: 192.168.7.224:56963, Mapped address: 104.12.217.45:56963, Behavior test: fail, Filtering test: fail
+
+stun.lamobo.org:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.levigo.de:3478, Binding test: success, Local address: 192.168.7.224:42017, Mapped address: 104.12.217.45:42017, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.lindab.com:3478, Binding test: success, Local address: 192.168.7.224:44735, Mapped address: 104.12.217.45:44735, Behavior test: fail, Filtering test: fail
+
+stun.linphone.org:3478, Binding test: success, Local address: 192.168.7.224:51297, Mapped address: 104.12.217.45:51297, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.linx.net:3478, Binding test: success, Local address: 192.168.7.224:45413, Mapped address: 104.12.217.45:45413, Behavior test: fail, Filtering test: fail
+
+stun.liveo.fr:3478, Binding test: success, Local address: 192.168.7.224:33384, Mapped address: 104.12.217.45:33384, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.lowratevoip.com:3478, Binding test: success, Local address: 192.168.7.224:49167, Mapped address: 104.12.217.45:49167, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.lundimatin.fr:3478, Binding test: success, Local address: 192.168.7.224:49589, Mapped address: 104.12.217.45:49589, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.maestroconference.com:3478, Binding test: success, Local address: 192.168.7.224:36182, Mapped address: 104.12.217.45:36182, Behavior test: fail, Filtering test: fail
+
+stun.mangotele.com:3478, Binding test: success, Local address: 192.168.7.224:44484, Mapped address: 104.12.217.45:44484, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.mgn.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.mit.de:3478, Binding test: success, Local address: 192.168.7.224:35273, Mapped address: 104.12.217.45:35273, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.miwifi.com:3478, Binding test: success, Local address: 192.168.7.224:56085, Mapped address: 104.12.217.45:56085, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.mixer.com:3478, Unable to resolve hostname for stun.mixer.com, Can't start client, Usage: stunclient [OPTIONS] server [port], Try 'stunclient --help' for a complete set of options and description of, paramters
+
+stun.modulus.gr:3478, Binding test: success, Local address: 192.168.7.224:40359, Mapped address: 104.12.217.45:40359, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.mrmondialisation.org:3478, Binding test: success, Local address: 192.168.7.224:43733, Mapped address: 104.12.217.45:43733, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.myfreecams.com:3478, Binding test: success, Local address: 192.168.7.224:39456, Mapped address: 104.12.217.45:39456, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.myvoiptraffic.com:3478, Binding test: success, Local address: 192.168.7.224:35980, Mapped address: 104.12.217.45:35980, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.mywatson.it:3478, Binding test: success, Local address: 192.168.7.224:56798, Mapped address: 104.12.217.45:56798, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.nacsworld.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.nas.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.nautile.nc:3478, Binding test: success, Local address: 192.168.7.224:44211, Mapped address: 104.12.217.45:44211, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.netappel.com:3478, Binding test: success, Local address: 192.168.7.224:44672, Mapped address: 104.12.217.45:44672, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.nextcloud.com:3478, Binding test: success, Local address: 192.168.7.224:38693, Mapped address: 104.12.217.45:38693, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.nfon.net:3478, Binding test: success, Local address: 192.168.7.224:50656, Mapped address: 104.12.217.45:50656, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ngine.de:3478, Unable to resolve hostname for stun.ngine.de, Can't start client, Usage: stunclient [OPTIONS] server [port], Try 'stunclient --help' for a complete set of options and description of, paramters
+
+stun.node4.co.uk:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.nonoh.net:3478, Binding test: success, Local address: 192.168.7.224:36586, Mapped address: 104.12.217.45:36586, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.nottingham.ac.uk:3478, Binding test: success, Local address: 192.168.7.224:58755, Mapped address: 104.12.217.45:58755, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.nova.is:3478, Binding test: success, Local address: 192.168.7.224:39319, Mapped address: 104.12.217.45:39319, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.onesuite.com:3478, Binding test: success, Local address: 192.168.7.224:44094, Mapped address: 104.12.217.45:44094, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.onthenet.com.au:3478, Binding test: success, Local address: 192.168.7.224:35937, Mapped address: 104.12.217.45:35937, Behavior test: fail, Filtering test: fail
+
+stun.ooma.com:3478, Binding test: success, Local address: 192.168.7.224:54984, Mapped address: 104.12.217.45:54984, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.oovoo.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.ozekiphone.com:3478, Binding test: success, Local address: 192.168.7.224:38836, Mapped address: 104.12.217.45:38836, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.personal-voip.de:3478, Binding test: success, Local address: 192.168.7.224:54698, Mapped address: 104.12.217.45:54698, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.petcube.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.pexip.com:3478, Binding test: success, Local address: 192.168.7.224:50857, Mapped address: 104.12.217.45:50857, Behavior test: fail, Filtering test: fail
+
+stun.phone.com:3478, Binding test: success, Local address: 192.168.7.224:50202, Mapped address: 104.12.217.45:50202, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.pidgin.im:3478, Binding test: success, Local address: 192.168.7.224:52153, Mapped address: 104.12.217.45:52153, Behavior test: fail, Filtering test: fail
+
+stun.pjsip.org:3478, Binding test: success, Local address: 192.168.7.224:46089, Mapped address: 104.12.217.45:46089, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.planete.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.poivy.com:3478, Binding test: success, Local address: 192.168.7.224:42762, Mapped address: 104.12.217.45:42762, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.powervoip.com:3478, Binding test: success, Local address: 192.168.7.224:50735, Mapped address: 104.12.217.45:50735, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ppdi.com:3478, Binding test: success, Local address: 192.168.7.224:48370, Mapped address: 104.12.217.45:48370, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.rackco.com:3478, Binding test: success, Local address: 192.168.7.224:39769, Mapped address: 104.12.217.45:39769, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.redworks.nl:3478, Binding test: success, Local address: 192.168.7.224:45877, Mapped address: 104.12.217.45:45877, Behavior test: fail, Filtering test: fail
+
+stun.ringostat.com:3478, Binding test: success, Local address: 192.168.7.224:33450, Mapped address: 104.12.217.45:33450, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.rmf.pl:3478, Binding test: success, Local address: 192.168.7.224:43450, Mapped address: 104.12.217.45:43450, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.rockenstein.de:3478, Binding test: success, Local address: 192.168.7.224:53483, Mapped address: 104.12.217.45:53483, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.rolmail.net:3478, Binding test: success, Local address: 192.168.7.224:60330, Mapped address: 104.12.217.45:60330, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.rudtp.ru:3478, Binding test: success, Local address: 192.168.7.224:46177, Mapped address: 104.12.217.45:46177, Behavior test: fail, Filtering test: fail
+
+stun.russian-club.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.rynga.com:3478, Binding test: success, Local address: 192.168.7.224:49286, Mapped address: 104.12.217.45:49286, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sainf.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.schlund.de:3478, Binding test: success, Local address: 192.168.7.224:51017, Mapped address: 104.12.217.45:51017, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sigmavoip.com:3478, Binding test: success, Local address: 192.168.7.224:48563, Mapped address: 104.12.217.45:48563, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sip.us:3478, Binding test: success, Local address: 192.168.7.224:33946, Mapped address: 104.12.217.45:33946, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sipdiscount.com:3478, Binding test: success, Local address: 192.168.7.224:40851, Mapped address: 104.12.217.45:40851, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sipgate.net:10000, Binding test: success, Local address: 192.168.7.224:43072, Mapped address: 104.12.217.45:43072, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sipgate.net:3478, Binding test: success, Local address: 192.168.7.224:45143, Mapped address: 104.12.217.45:45143, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.siplogin.de:3478, Binding test: success, Local address: 192.168.7.224:43922, Mapped address: 104.12.217.45:43922, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sipnet.net:3478, Binding test: success, Local address: 192.168.7.224:41695, Mapped address: 104.12.217.45:41695, Behavior test: fail, Filtering test: fail
+
+stun.sipnet.ru:3478, Binding test: success, Local address: 192.168.7.224:45455, Mapped address: 104.12.217.45:45455, Behavior test: fail, Filtering test: fail
+
+stun.siportal.it:3478, Binding test: success, Local address: 192.168.7.224:37502, Mapped address: 104.12.217.45:37502, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sippeer.dk:3478, Binding test: success, Local address: 192.168.7.224:58635, Mapped address: 104.12.217.45:58635, Behavior test: fail, Filtering test: fail
+
+stun.siptraffic.com:3478, Binding test: success, Local address: 192.168.7.224:60013, Mapped address: 104.12.217.45:60013, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sma.de:3478, Binding test: success, Local address: 192.168.7.224:35991, Mapped address: 104.12.217.45:35991, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.smartvoip.com:3478, Binding test: success, Local address: 192.168.7.224:39650, Mapped address: 104.12.217.45:39650, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.smsdiscount.com:3478, Binding test: success, Local address: 192.168.7.224:37635, Mapped address: 104.12.217.45:37635, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.snafu.de:3478, Binding test: success, Local address: 192.168.7.224:34119, Mapped address: 104.12.217.45:34119, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.solcon.nl:3478, Binding test: success, Local address: 192.168.7.224:46770, Mapped address: 104.12.217.45:46770, Behavior test: fail, Filtering test: fail
+
+stun.solnet.ch:3478, Binding test: success, Local address: 192.168.7.224:48006, Mapped address: 104.12.217.45:48006, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sonetel.com:3478, Binding test: success, Local address: 192.168.7.224:46166, Mapped address: 104.12.217.45:46166, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sonetel.net:3478, Binding test: success, Local address: 192.168.7.224:56833, Mapped address: 104.12.217.45:56833, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.sovtest.ru:3478, Binding test: success, Local address: 192.168.7.224:57966, Mapped address: 104.12.217.45:57966, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.speedy.com.ar:3478, Binding test: success, Local address: 192.168.7.224:53712, Mapped address: 104.12.217.45:53712, Behavior test: fail, Filtering test: success, Nat filtering: Endpoint Independent Filtering
+
+stun.spoiltheprincess.com:3478, Binding test: success, Local address: 192.168.7.224:58882, Mapped address: 104.12.217.45:58882, Behavior test: fail, Filtering test: fail
+
+stun.srce.hr:3478, Binding test: success, Local address: 192.168.7.224:49849, Mapped address: 104.12.217.45:49849, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ssl7.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.stunprotocol.org:3478, Binding test: success, Local address: 192.168.7.224:45707, Mapped address: 104.12.217.45:45707, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.swissquote.com:3478, Binding test: success, Local address: 192.168.7.224:35482, Mapped address: 104.12.217.45:35482, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.t-online.de:3478, Binding test: success, Local address: 192.168.7.224:34708, Mapped address: 104.12.217.45:34708, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.talks.by:3478, Binding test: success, Local address: 192.168.7.224:50126, Mapped address: 104.12.217.45:50126, Behavior test: fail, Filtering test: fail
+
+stun.tel.lu:3478, Binding test: success, Local address: 192.168.7.224:60198, Mapped address: 104.12.217.45:60198, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.telbo.com:3478, Binding test: success, Local address: 192.168.7.224:52758, Mapped address: 104.12.217.45:52758, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.telefacil.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.threema.ch:3478, Binding test: success, Local address: 192.168.7.224:35050, Mapped address: 104.12.217.45:35050, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.tng.de:3478, Binding test: success, Local address: 192.168.7.224:34774, Mapped address: 104.12.217.45:34774, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.trueconf.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.twt.it:3478, Binding test: success, Local address: 192.168.7.224:41077, Mapped address: 104.12.217.45:41077, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.ucallweconn.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.ucsb.edu:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.ucw.cz:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.uiscom.ru:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.uls.co.za:3478, Binding test: success, Local address: 192.168.7.224:45139, Mapped address: 104.12.217.45:45139, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.unseen.is:3478, Binding test: success, Local address: 192.168.7.224:33348, Mapped address: 104.12.217.45:33348, Behavior test: fail, Filtering test: fail
+
+stun.up.edu.ph:3478, Binding test: success, Local address: 192.168.7.224:53347, Mapped address: 104.12.217.45:53347, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.usfamily.net:3478, Binding test: success, Local address: 192.168.7.224:56210, Mapped address: 36.61.97.134:38819, Behavior test: success, Nat behavior: Address and Port Dependent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.uucall.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.veoh.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.vipgroup.net:3478, Binding test: success, Local address: 192.168.7.224:59870, Mapped address: 104.12.217.45:59870, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.viva.gr:3478, Binding test: success, Local address: 192.168.7.224:43108, Mapped address: 104.12.217.45:43108, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.vivox.com:3478, Binding test: success, Local address: 192.168.7.224:45072, Mapped address: 104.12.217.45:45072, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.vline.com:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.vmi.se:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.vo.lu:3478, Binding test: success, Local address: 192.168.7.224:49976, Mapped address: 104.12.217.45:49976, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.vodafone.ro:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.voicetrading.com:3478, Binding test: success, Local address: 192.168.7.224:49587, Mapped address: 104.12.217.45:49587, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voip.aebc.com:3478, Binding test: success, Local address: 192.168.7.224:34553, Mapped address: 104.12.217.45:34553, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voip.blackberry.com:3478, Binding test: success, Local address: 192.168.7.224:43706, Mapped address: 104.12.217.45:43706, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voip.eutelia.it:3478, Binding test: success, Local address: 192.168.7.224:54640, Mapped address: 104.12.217.45:54640, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voiparound.com:3478, Binding test: success, Local address: 192.168.7.224:34926, Mapped address: 104.12.217.45:34926, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipblast.com:3478, Binding test: success, Local address: 192.168.7.224:36393, Mapped address: 104.12.217.45:36393, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipbuster.com:3478, Binding test: success, Local address: 192.168.7.224:34191, Mapped address: 104.12.217.45:34191, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipbusterpro.com:3478, Binding test: success, Local address: 192.168.7.224:43208, Mapped address: 104.12.217.45:43208, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipcheap.co.uk:3478, Binding test: success, Local address: 192.168.7.224:59390, Mapped address: 104.12.217.45:59390, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipcheap.com:3478, Binding test: success, Local address: 192.168.7.224:35927, Mapped address: 104.12.217.45:35927, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipdiscount.com:3478, Binding test: success, Local address: 192.168.7.224:54507, Mapped address: 104.12.217.45:54507, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipfibre.com:3478, Binding test: success, Local address: 192.168.7.224:35306, Mapped address: 104.12.217.45:35306, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipgain.com:3478, Binding test: success, Local address: 192.168.7.224:51641, Mapped address: 104.12.217.45:51641, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipgate.com:3478, Binding test: success, Local address: 192.168.7.224:34281, Mapped address: 104.12.217.45:34281, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipinfocenter.com:3478, Binding test: success, Local address: 192.168.7.224:52422, Mapped address: 104.12.217.45:52422, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipplanet.nl:3478, Binding test: success, Local address: 192.168.7.224:57407, Mapped address: 104.12.217.45:57407, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voippro.com:3478, Binding test: success, Local address: 192.168.7.224:53556, Mapped address: 104.12.217.45:53556, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipraider.com:3478, Binding test: success, Local address: 192.168.7.224:49261, Mapped address: 104.12.217.45:49261, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipstunt.com:3478, Binding test: success, Local address: 192.168.7.224:51295, Mapped address: 104.12.217.45:51295, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipwise.com:3478, Binding test: success, Local address: 192.168.7.224:57430, Mapped address: 104.12.217.45:57430, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voipzoom.com:3478, Binding test: success, Local address: 192.168.7.224:36795, Mapped address: 104.12.217.45:36795, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voxgratia.org:3478, Binding test: success, Local address: 192.168.7.224:47514, Mapped address: 104.12.217.45:47514, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voxox.com:3478, Binding test: success, Local address: 192.168.7.224:56935, Mapped address: 104.12.217.45:56935, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.voztele.com:3478, Binding test: success, Local address: 192.168.7.224:53063, Mapped address: 104.12.217.45:53063, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.wcoil.com:3478, Binding test: success, Local address: 192.168.7.224:41629, Mapped address: 104.12.217.45:41629, Behavior test: fail, Filtering test: fail
+
+stun.webcalldirect.com:3478, Binding test: success, Local address: 192.168.7.224:38813, Mapped address: 104.12.217.45:38813, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.whc.net:3478, Binding test: success, Local address: 192.168.7.224:42619, Mapped address: 104.12.217.45:42619, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.whoi.edu:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.wifirst.net:3478, Binding test: success, Local address: 192.168.7.224:35405, Mapped address: 104.12.217.45:35405, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.wwdl.net:3478, Binding test: fail, Behavior test: fail, Filtering test: fail
+
+stun.xn----8sbcoa5btidn9i.xn--p1ai:3478, Binding test: success, Local address: 192.168.7.224:57268, Mapped address: 104.12.217.45:57268, Behavior test: fail, Filtering test: fail
+
+stun.xten.com:3478, Binding test: success, Local address: 192.168.7.224:39395, Mapped address: 104.12.217.45:39395, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.xtratelecom.es:3478, Binding test: success, Local address: 192.168.7.224:47202, Mapped address: 104.12.217.45:47202, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.yy.com:3478, Binding test: success, Local address: 192.168.7.224:47558, Mapped address: 104.12.217.45:47558, Behavior test: fail, Filtering test: fail
+
+stun.zadarma.com:3478, Binding test: success, Local address: 192.168.7.224:51382, Mapped address: 104.12.217.45:51382, Behavior test: fail, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun.zepter.ru:3478, Binding test: success, Local address: 192.168.7.224:60644, Mapped address: 104.12.217.45:60644, Behavior test: fail, Filtering test: fail
+
+stun.zoiper.com:3478, Binding test: success, Local address: 192.168.7.224:41249, Mapped address: 104.12.217.45:41249, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun1.faktortel.com.au:3478, Binding test: success, Local address: 192.168.7.224:37123, Mapped address: 104.12.217.45:37123, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
+stun1.l.google.com:19302, Binding test: success, Local address: 192.168.7.224:39410, Mapped address: 104.12.217.45:39410, Behavior test: fail, Filtering test: fail
+
+stun2.l.google.com:19302, Binding test: success, Local address: 192.168.7.224:51644, Mapped address: 104.12.217.45:51644, Behavior test: fail, Filtering test: fail
+
+stun3.l.google.com:19302, Binding test: success, Local address: 192.168.7.224:35056, Mapped address: 104.12.217.45:35056, Behavior test: fail, Filtering test: fail
+
+stun4.l.google.com:19302, Binding test: success, Local address: 192.168.7.224:59639, Mapped address: 104.12.217.45:59639, Behavior test: fail, Filtering test: fail
+
+stun.zoiper.com:3478, Binding test: success, Local address: 192.168.7.224:40422, Mapped address: 104.12.217.45:40422, Behavior test: success, Nat behavior: Endpoint Independent Mapping, Filtering test: success, Nat filtering: Address and Port Dependent Filtering
+
